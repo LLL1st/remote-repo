@@ -1,2 +1,7 @@
 hello -
+<<<<<<< HEAD
 test
+=======
+在vscode中修改了这一行
+在windows下修改了这个
+>>>>>>> 6f9f80b370c16ab8338c876b1e21f5975d2be714
